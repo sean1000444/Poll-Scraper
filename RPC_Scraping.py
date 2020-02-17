@@ -1,4 +1,4 @@
-from rcp import get_polls, get_poll_data
+from rcp import get_poll_data
 import time, requests
 
 current_name = ""
